@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rikuc
+- 👋 Hi, I’m @Rikucs
 - 👀 I’m interested in programing and anime
 - 🌱 I’m currently learning basics of php and java script 
 
